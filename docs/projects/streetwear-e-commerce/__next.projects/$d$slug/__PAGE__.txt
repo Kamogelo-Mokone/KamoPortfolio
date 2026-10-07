@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:"/MyPortfolio/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+d:"/MyPortfolio/_next/static/chunks/2w5b4y524a5i0.js"
+e:I[54858,["$2","$d"],"default"]
+f:I[22016,["$2","$d"],""]
+10:I[5500,["$2","$d"],"Image"]
+17:"ViewportBoundary"
+18:I[97367,["$2"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$2"],"IconMark"]
+:HL["/MyPortfolio/_next/static/chunks/17iq9i92wijs8.css","style"]
+6:X
+9:X
+9:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$Le",null,{"variant":"light"}],["$","main",null,{"className":"case-study-page","children":["$","div",null,{"className":"case-study-inner","children":[["$","div",null,{"className":"case-study-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"WORK"}],["$","h1",null,{"children":"Selected Projects"}]]}],["$","$Lf",null,{"className":"projects-back","href":"/projects/","children":"Back"}]]}],["$","section",null,{"aria-labelledby":"case-title","className":"case-intro","children":[["$","p",null,{"className":"case-category","children":"WEB APP"}],["$","h2",null,{"id":"case-title","children":"OFFGRID"}],["$","p",null,{"children":"A mobile-first e-commerce concept designed to showcase clothing collections, curated outfits, and seamless product discovery through a clean, modern interface."}]]}],["$","dl",null,{"className":"case-metadata","children":[["$","div","Product Area",{"children":[["$","dt",null,{"children":"Product Area"}],["$","dd",null,{"children":"Fashion e-commerce"}]]}],["$","div","Focus",{"children":[["$","dt",null,{"children":"Focus"}],["$","dd",null,{"children":"Product discovery"}]]}],["$","div","Role",{"children":[["$","dt",null,{"children":"Role"}],["$","dd",null,{"children":"UI/UX designer"}]]}],["$","div","Scope",{"children":[["$","dt",null,{"children":"Scope"}],["$","dd",null,{"children":"Collections, products & shopping"}]]}],["$","div","Status",{"children":[["$","dt",null,{"children":"Status"}],["$","dd",null,{"children":"Concept design"}]]}]]}],["$","section",null,{"aria-label":"OFFGRID project preview","className":"case-preview","children":["$","$L10",null,{"alt":"OFFGRID project design","className":"project-case-image","height":861,"loading":"eager","src":"/MyPortfolio/projects/OFFGRID.png","unoptimized":true,"width":1602}]}],["$","section",null,{"aria-labelledby":"case-context-title","className":"case-context","children":[["$","p",null,{"className":"eyebrow","children":"DESIGN DECISIONS"}],["$","h2",null,{"id":"case-context-title","children":"Deeper Context"}],["$","ol",null,{"children":[["$","li","A collection-led entry point gives the brand room to tell a story before asking people to browse individual products.",{"children":"A collection-led entry point gives the brand room to tell a story before asking people to browse individual products."}],["$","li","Clear product groupings and curated outfits help shoppers move from inspiration to a considered purchase.",{"children":"Clear product groupings and curated outfits help shoppers move from inspiration to a considered purchase."}],"$L11"]}]]}],"$undefined","$undefined","$undefined","$L12"]}]}],"$L13"],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$6"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"streetwear-e-commerce","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$9","s":"$6"},"c":"$Qc"}]]
+7:[["children",{"s":"projects","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/MyPortfolio/_next/static/chunks/17iq9i92wijs8.css","precedence":"next"}],["$","script","script-0",{"src":"/MyPortfolio/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"en","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kamogelo Mokone — Digital Solutions & Design"}],["$","meta","1",{"name":"description","content":"Kamogelo Mokone is a Microsoft Power Platform, SharePoint and AI solutions developer and UI/UX designer based in Midrand, South Africa."}],["$","link","2",{"rel":"icon","href":"/MyPortfolio/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1c","3",{}]]}]}],null]}],null]}],"p":"$@1d","v":null,"s":"$6"}},"a":"$@1e","u":"$@1f","b":"RoXdgzckZY5CQHiOX01tH"}
+20:I[97367,["$2"],"OutletBoundary"]
+11:["$","li","A mobile-first layout keeps product imagery and key actions easy to scan on smaller screens.",{"children":"A mobile-first layout keeps product imagery and key actions easy to scan on smaller screens."}]
+12:["$","$Lf",null,{"className":"case-back-link","href":"/projects/","children":"Back to all projects"}]
+13:["$","footer",null,{"className":"site-footer","children":[["$","$Lf",null,{"className":"footer-mark","href":"/","children":"KM"}],["$","span",null,{"children":["© ",2026," Kamogelo Mokone. Midrand, South Africa."]}]]}]
+14:["$","script","script-0",{"src":"/MyPortfolio/_next/static/chunks/2w5b4y524a5i0.js","async":true}]
+15:["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+6:300
+21:null
+1f:true
+6:C
+1e:0
+b:"$undefined"
+8:"$undefined"
+5:"$undefined"
+1d:"$undefined"
+16:"$undefined"

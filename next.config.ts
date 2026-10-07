@@ -1,19 +1,18 @@
 import type { NextConfig } from "next";
 
+const BASE_PATH = "/MyPortfolio";
+
 const nextConfig: NextConfig = {
-  /* config options here */
-  experimental: {
-    agentFeedback: true,
+  output: "export",
+  distDir: "docs",
+  trailingSlash: true,
+  basePath: BASE_PATH,
+  assetPrefix: `${BASE_PATH}/`,
+  env: {
+    NEXT_PUBLIC_BASE_PATH: BASE_PATH,
   },
-  cacheComponents: true,
-  partialPrefetching: true,
-  turbopack: {
-    rules: {
-      "*.css": {
-        loaders: ["@tailwindcss/turbopack"],
-        as: "*.css",
-      },
-    },
+  images: {
+    unoptimized: true,
   },
 };
 

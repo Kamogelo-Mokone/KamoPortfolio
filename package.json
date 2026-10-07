@@ -5,10 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "node scripts/create-nojekyll.mjs",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "@next/font": "^14.2.15",
     "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0"

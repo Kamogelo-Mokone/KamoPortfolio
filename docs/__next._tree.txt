@@ -1,3 +1,3 @@
-:HL["/KamoPortfolio/_next/static/chunks/17iq9i92wijs8.css","style"]
+:HL["/KamoPortfolio/_next/static/chunks/3ulh0atgxaocp.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"lTWV9_464brQVv4LbU96v","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"yr2dkH0z0rsZSsKgFlxd5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

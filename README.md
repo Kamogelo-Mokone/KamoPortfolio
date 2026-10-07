@@ -114,7 +114,7 @@ The other Microsoft project case-study routes currently use a designed overview 
 ## Navigation and styling conventions
 
 - Use the shared `Nav` and `Footer` components on pages.
-- Subpages use `<Nav variant="light" />`; the light navigation has a fixed, frosted-glass treatment so it remains visible while scrolling.
+- Every page uses the shared fixed navigation so it remains visible while scrolling. The home page uses the dark frosted-glass variant; subpages use `<Nav variant="light" />`.
 - Keep styling in `app/globals.css` and use the existing CSS custom properties and responsive media queries.
 - Typography is intentionally larger than the initial design pass for readability; retain responsive font adjustments when changing text styles.
 - Avoid arrow glyphs in buttons and button-style calls to action. Directional arrows may be used for non-button cues only when appropriate.

@@ -86,7 +86,7 @@ function AboutPortrait() {
       />
       <div className="portrait-glow" />
       <span className="portrait-name">KAMOGELO MOKONE</span>
-      <span className="location-pill"><span>✳</span> Midrand, SA</span>
+      <span className="location-pill"><span></span> Midrand, SA</span>
     </div>
   );
 }
@@ -186,7 +186,8 @@ export default function Home() {
               <article className="career-card career-card--experience">
                 <div className="experience-heading"><h3>First Digital</h3><span>January 2024 – Present</span></div>
                 <h4>Software Consultant &amp; Developer</h4>
-                <p>Over the years, I&apos;ve evolved from supporting technology solutions to designing and delivering modern digital workplace experiences. Today, I help organizations unlock the full potential of Microsoft 365, Power Platform, SharePoint, and AI through thoughtful design, practical innovation, and user-focused solutions.</p>
+                <p>Design and deliver scalable Microsoft Power Platform, SharePoint, and AI-driven solutions for enterprise clients, leading projects from requirements analysis 
+                  through to deployment</p>
                 <h4>Designing Solutions That Drive Impact</h4>
                 <p>Transitioned into a client-facing consulting and development role focused on delivering modern workplace, automation, collaboration, and AI-powered solutions using Microsoft technologies.</p>
                 <h4>Highlights &amp; Achievements</h4>

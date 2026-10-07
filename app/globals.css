@@ -49,11 +49,14 @@ button { font-family: inherit; }
 }
 
 .site-header {
-  position: absolute;
+  position: fixed;
   z-index: 10;
   inset: 0 0 auto;
   padding: 25px 7.5vw;
+  background: rgb(0 75 58 / 90%);
   color: rgb(255 255 255 / 88%);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
 }
 .site-nav {
   display: flex;
@@ -83,7 +86,6 @@ button { font-family: inherit; }
 .nav-contact span { color: var(--lime); }
 .menu-toggle { display: none; }
 .site-header--light {
-  position: fixed;
   background: rgb(240 244 248 / 92%);
   color: #344039;
   backdrop-filter: blur(14px);

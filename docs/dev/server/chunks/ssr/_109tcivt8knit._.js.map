@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/KamogeloMokone/Workspace/portfolio-kamo/app/layout.tsx"],"sourcesContent":["import type { Metadata } from \"next\";\nimport \"./globals.css\";\n\nexport const metadata: Metadata = {\n  title: \"Kamogelo Mokone — Digital Solutions & Design\",\n  description:\n    \"Kamogelo Mokone is a Microsoft Power Platform, SharePoint and AI solutions developer and UI/UX designer based in Midrand, South Africa.\",\n};\n\nexport default function RootLayout({ children }: LayoutProps<\"/\">) {\n  return (\n    <html lang=\"en\" data-scroll-behavior=\"smooth\">\n      <body>{children}</body>\n    </html>\n  );\n}\n"],"names":["metadata","title","description","RootLayout","children","lang"],"mappings":";;;;;;;;;AAGO,MAAMA,WAAqB;IAChCC,OAAO;IACPC,aACE;AACJ;AAEe,SAASC,WAAW,EAAEC,QAAQ,EAAoB;IAC/D,qBACE,8OAAC;QAAKC,MAAK;QAAK,wBAAqB;kBACnC,cAAA,8OAAC;sBAAMD;;;;;;;;;;;AAGb"}},
+    {"offset": {"line": 42, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/KamogeloMokone/Workspace/portfolio-kamo/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}

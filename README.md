@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000/MyPortfolio](http://localhost:3000/MyPortfolio).
+Open [http://localhost:3000/KamoPortfolio](http://localhost:3000/KamoPortfolio).
 
 ## Build for GitHub Pages
 
@@ -26,7 +26,7 @@ npm run lint
 npm run build
 ```
 
-Next.js statically exports the site to `docs/`. The postbuild script creates `docs/.nojekyll` so GitHub Pages preserves Next.js assets. The configured base path is `/MyPortfolio`.
+Next.js statically exports the site to `docs/`. The postbuild script creates `docs/.nojekyll` so GitHub Pages preserves Next.js assets. The configured base path is `/KamoPortfolio`, matching the GitHub repository name.
 
 ## Pages and routes
 
@@ -125,7 +125,7 @@ The other Microsoft project case-study routes currently use a designed overview 
 `next.config.ts` sets:
 
 ```ts
-const BASE_PATH = "/MyPortfolio";
+const BASE_PATH = "/KamoPortfolio";
 
 const nextConfig = {
   output: "export",

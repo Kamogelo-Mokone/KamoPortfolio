@@ -1,6 +1,6 @@
 import type { NextConfig } from "next";
 
-const BASE_PATH = "/MyPortfolio";
+const BASE_PATH = "/KamoPortfolio";
 
 const nextConfig: NextConfig = {
   output: "export",
